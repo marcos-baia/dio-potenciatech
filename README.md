@@ -5,8 +5,11 @@
 <h1>Potência Tech Angular Developer - Powered by iFood</h1>
 
 <p align="center">
+  <a href="https://github.com/tawaramartins/bootcamp-developer-dio">
   <img src="assets/angular-developer.png" width="25%">
+  </a>
 </p>
 
 <p align="justify">O Potência Tech powered by iFood é um Bootcamp focado em Angular, com cursos, desafios de projeto, desafios de código e mentorias exclusivas.
 Ao final do programa, acontecerá o Minha Carreira Tech, uma oportunidade de conhecer as empresas parceiras e ficar disponível na plataforma de talentos da DIO, além da possibilidade de conquistar prêmios pelo seu desempenho.</p>
+
